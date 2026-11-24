@@ -1,0 +1,13 @@
+{
+  "name": "nse-support-centre-rj26-bot",
+  "version": "1.0.0",
+  "description": "Telegram support bot for NSE SUPPORT CENTRE RJ26 (@nsesupportcentrebot)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.31.1"
+  }
+}
